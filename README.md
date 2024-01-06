@@ -1,6 +1,6 @@
 # LethalCompany_BilibiliTrophy
 
-bilibili打败马桶人纪念奖杯，十分的值钱（
+bilibili打败马桶人纪念奖杯，十分的值钱（，安装：在plugins文件夹里新建bilibili文件夹，把lem文件放入，其他文件放在plugins文件夹外，可能会导电。
 
 此废品的详细信息如下：
 
